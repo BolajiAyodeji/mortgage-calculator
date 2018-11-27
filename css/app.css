@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600');
 
 body {
 	font-family: 'Poppins', sans-serif;
@@ -85,4 +85,9 @@ main {
 
 .payment::before {
 	content: "$"
+}
+
+.footer {
+	background: #ddd;
+	margin-top: 20px;
 }
